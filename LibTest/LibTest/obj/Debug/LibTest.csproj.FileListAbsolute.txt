@@ -1,0 +1,15 @@
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\LibTest.exe.config
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\LibTest.exe
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\LibTest.pdb
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\AForge.dll
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\AForge.Genetic.dll
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\AForge.Math.dll
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\AForge.Neuro.dll
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\AForge.xml
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\AForge.Genetic.xml
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\AForge.Math.xml
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\bin\Debug\AForge.Neuro.xml
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\obj\Debug\LibTest.exe
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\obj\Debug\LibTest.pdb
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\obj\Debug\LibTest.csprojResolveAssemblyReference.cache
+C:\Users\XIJUN-LEE\Desktop\LibTest\LibTest\obj\Debug\LibTest.csproj.ResolveComReference.cache

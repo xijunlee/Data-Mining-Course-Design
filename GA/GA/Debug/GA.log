@@ -1,0 +1,11 @@
+﻿生成启动时间为 2014/7/8 23:23:37。
+     1>项目“C:\Users\XIJUN-LEE\Desktop\GA\GA\GA.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\XIJUN-LEE\Desktop\GA\Debug\GA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\XIJUN-LEE\Desktop\GA\Debug\GA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\XIJUN-LEE\Desktop\GA\Debug\GA.lib" /MACHINE:X86 Debug\GA.obj
+         Debug\stdafx.obj
+         GA.vcxproj -> C:\Users\XIJUN-LEE\Desktop\GA\Debug\GA.exe
+     1>已完成生成项目“C:\Users\XIJUN-LEE\Desktop\GA\GA\GA.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.49

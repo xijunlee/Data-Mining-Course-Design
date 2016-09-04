@@ -1,0 +1,9 @@
+﻿<Window x:Class="DMCourseDesign.DataDefine"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="数据定义说明" Height="544.964" Width="570.971" ResizeMode="NoResize">
+    <Grid Margin="0,0,1,14">
+        <Image HorizontalAlignment="Left" Height="500" Margin="2,0,0,0" VerticalAlignment="Top" Width="555" Source="C:\Users\XIJUN-LEE\Desktop\DMCourseDesign\DMCourseDesign\bin\Debug\图片2.png"/>
+
+    </Grid>
+</Window>

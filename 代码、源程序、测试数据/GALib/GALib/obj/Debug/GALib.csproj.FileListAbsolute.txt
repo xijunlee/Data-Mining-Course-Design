@@ -1,0 +1,12 @@
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\bin\Debug\GALib.dll
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\bin\Debug\GALib.pdb
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\bin\Debug\AForge.dll
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\bin\Debug\AForge.Neuro.dll
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\bin\Debug\AForge.Genetic.dll
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\bin\Debug\AForge.Math.dll
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\bin\Debug\AForge.xml
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\bin\Debug\AForge.Neuro.xml
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\bin\Debug\AForge.Genetic.xml
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\bin\Debug\AForge.Math.xml
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\obj\Debug\GALib.dll
+C:\Users\XIJUN-LEE\Desktop\GALib\GALib\obj\Debug\GALib.pdb

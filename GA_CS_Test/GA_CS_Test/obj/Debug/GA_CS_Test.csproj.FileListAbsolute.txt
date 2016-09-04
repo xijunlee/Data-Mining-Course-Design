@@ -1,0 +1,2 @@
+c:\users\xijun-lee\documents\visual studio 2012\Projects\GA_CS_Test\GA_CS_Test\bin\Debug\GA_CS_Test.exe.config
+C:\Users\XIJUN-LEE\Desktop\GA_CS_Test\GA_CS_Test\bin\Debug\GA_CS_Test.exe.config

@@ -1,0 +1,95 @@
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\BPNETWORK_CS_Test.exe.config
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\BPNETWORK_CS_Test.exe
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\BPNETWORK_CS_Test.pdb
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Controls.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Fuzzy.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Genetic.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Imaging.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Imaging.Formats.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Imaging.IPPrototyper.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.MachineLearning.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Math.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Neuro.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.Lego.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.Surveyor.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.TeRK.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.FFMPEG.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.Kinect.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.VFW.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.Ximea.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Vision.dll
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\IPPrototyper.exe
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Controls.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Fuzzy.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Genetic.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Imaging.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Imaging.Formats.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.MachineLearning.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Math.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Neuro.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.Lego.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.Surveyor.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.TeRK.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.FFMPEG.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.Kinect.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.VFW.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.Ximea.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Vision.xml
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\obj\Debug\BPNETWORK_CS_Test.csprojResolveAssemblyReference.cache
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\obj\Debug\BPNETWORK_CS_Test.exe
+c:\users\xijun-lee\documents\visual studio 2012\Projects\BPNETWORK_CS_Test\BPNETWORK_CS_Test\obj\Debug\BPNETWORK_CS_Test.pdb
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\BPNETWORK_CS_Test.exe.config
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\obj\Debug\BPNETWORK_CS_Test.exe
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\obj\Debug\BPNETWORK_CS_Test.pdb
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\obj\Debug\BPNETWORK_CS_Test.csprojResolveAssemblyReference.cache
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\BPNETWORK_CS_Test.exe
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\BPNETWORK_CS_Test.pdb
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Controls.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Fuzzy.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Genetic.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Imaging.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.MachineLearning.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Math.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Neuro.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.VFW.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Vision.dll
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\IPPrototyper.exe
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Controls.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Fuzzy.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Genetic.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Imaging.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.MachineLearning.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Math.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Neuro.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.VFW.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\AForge.Vision.xml
+C:\Users\XIJUN-LEE\Desktop\BPNETWORK_CS_Test\BPNETWORK_CS_Test\bin\Debug\ClassLibTest.pdb

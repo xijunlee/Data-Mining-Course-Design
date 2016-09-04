@@ -1,0 +1,92 @@
+﻿<Window x:Class="DMCourseDesign.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="数据挖掘课程设计" Height="479.053" Width="834.769" ResizeMode="NoResize">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="442" Margin="3,1,-2,0" VerticalAlignment="Top" Width="826">
+            <TabItem Header="第1、2问">
+                <Grid Background="#FFBFABAB">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="85*"/>
+                        <ColumnDefinition Width="8*"/>
+                        <ColumnDefinition Width="727*"/>
+                    </Grid.ColumnDefinitions>
+                    <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="210" Margin="6,6,0,0" Stroke="Black" VerticalAlignment="Top" Width="174" Grid.ColumnSpan="3"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="12,11,0,0" TextWrapping="Wrap" Text="读入数据" VerticalAlignment="Top" FontSize="20" Grid.ColumnSpan="2"/>
+                    <Button x:Name="InputDataFileButton" Content="浏览..." HorizontalAlignment="Left" Margin="14,71,0,0" VerticalAlignment="Top" Width="63" FontSize="16" Click="InputDataFileButton_Click"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="14,44,0,0" TextWrapping="Wrap" Text="输入数据" VerticalAlignment="Top" FontSize="16"/>
+                    <TextBox x:Name="InputDataFileBlock" HorizontalAlignment="Left" Height="23" Margin="81,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Grid.ColumnSpan="3"/>
+                    <Button x:Name="OutputDataFileButton" Content="浏览..." HorizontalAlignment="Left" Margin="14,132,0,0" VerticalAlignment="Top" Width="63" FontSize="16" Click="OutputDataFileButton_Click"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="14,105,0,0" TextWrapping="Wrap" Text="输出数据" VerticalAlignment="Top" FontSize="16"/>
+                    <TextBox x:Name="OutputDataFileBlock" HorizontalAlignment="Left" Height="23" Margin="81,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Grid.ColumnSpan="3"/>
+                    <Button x:Name="DataInputEnsureButton" Content="确定" HorizontalAlignment="Left" Margin="4,171,0,0" VerticalAlignment="Top" Width="75" FontSize="18" Click="DataInputEnsureButton_Click" Grid.Column="1" Grid.ColumnSpan="2"/>
+                    <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="190" Margin="7,221,0,0" Stroke="Black" VerticalAlignment="Top" Width="174" Grid.ColumnSpan="3"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="16,227,0,0" TextWrapping="Wrap" Text="训练神经网络" VerticalAlignment="Top" FontSize="20" Grid.ColumnSpan="3"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="17,294,0,0" TextWrapping="Wrap" Text="隐层节点数" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="3"/>
+                    <TextBox x:Name="HiddenBlock" HorizontalAlignment="Left" Height="23" Margin="11,294,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="20,334,0,0" TextWrapping="Wrap" Text="迭代次数" VerticalAlignment="Top" FontSize="16"/>
+                    <TextBox x:Name="NNIterBlock" HorizontalAlignment="Left" Height="23" Margin="11,334,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" Grid.Column="2"/>
+                    <RadioButton x:Name="NNZHUANJIA" Content="专家" HorizontalAlignment="Left" Margin="17,265,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.022,-0.929" IsChecked="True" FontSize="16" Checked="NNZHUANJIA_Checked"/>
+                    <RadioButton x:Name="NNJIANDAN" Content="简单" HorizontalAlignment="Left" Margin="3,265,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.022,-0.929" IsChecked="True" FontSize="16" Checked="NNJIANDAN_Checked" Grid.Column="2"/>
+                    <Button x:Name="StartTrainNNButton" Content="开始训练" HorizontalAlignment="Left" Margin="76,372,0,0" VerticalAlignment="Top" Width="97" FontSize="18" Click="StartTrainNNButton_Click" IsEnabled="False" Grid.ColumnSpan="3"/>
+                    <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="404" Margin="93,6,0,0" Stroke="Black" VerticalAlignment="Top" Width="228" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="101,10,0,0" TextWrapping="Wrap" Text="遗传算法求解" VerticalAlignment="Top" FontSize="20" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="106,43,0,0" TextWrapping="Wrap" Text="加载神经网络" VerticalAlignment="Top" FontSize="16" Grid.Column="2"/>
+                    <Button x:Name="ReadNNButton" Content="浏览..." HorizontalAlignment="Left" Margin="106,70,0,0" VerticalAlignment="Top" Width="63" FontSize="16" Click="ReadNNButton_Click" Grid.Column="2"/>
+                    <TextBox x:Name="LoadNNTextbox" HorizontalAlignment="Left" Height="23" Margin="173,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="106,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Grid.Column="2"><Run Language="zh-cn" Text="种群大小"/></TextBlock>
+                    <TextBox x:Name="PopulationSizeTextBox" HorizontalAlignment="Left" Height="23" Margin="173,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Text="50" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="106,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Grid.Column="2"><Run Language="zh-cn" Text="变异概率"/></TextBlock>
+                    <TextBox x:Name="MutationProbTextBox" HorizontalAlignment="Left" Height="23" Margin="173,204,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Text="0.001" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="106,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Grid.Column="2"><Run Language="zh-cn" Text="迭代次数"/></TextBlock>
+                    <TextBox x:Name="GAIterTextBox" HorizontalAlignment="Left" Height="23" Margin="173,238,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Text="500" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="106,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Grid.Column="2"><Run Language="zh-cn" Text="精度"/></TextBlock>
+                    <TextBox x:Name="AccuracyTextBox" HorizontalAlignment="Left" Height="23" Margin="173,272,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Text="0.7" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="106,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Grid.Column="2"><Run Language="zh-cn" Text="输入维数"/></TextBlock>
+                    <TextBox x:Name="InputDimensionTextBox" HorizontalAlignment="Left" Height="23" Margin="173,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="106,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Grid.Column="2"><Run Language="zh-cn" Text="输出维数"/></TextBlock>
+                    <TextBox x:Name="OutputDimensionTextBox" HorizontalAlignment="Left" Height="23" Margin="173,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Grid.Column="2"/>
+                    <Button x:Name="GAButton" Content="开始寻优" HorizontalAlignment="Left" Margin="196,303,0,0" VerticalAlignment="Top" Width="113" Height="32" FontSize="18" Click="GAButton_Click" IsEnabled="False" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="330,5,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Grid.Column="2" Width="308"><Run Text="计算结果："/><Run Language="zh-cn" Text="（只输出适应度）"/></TextBlock>
+                    <TextBox x:Name="ResultTextBox" HorizontalAlignment="Left" Height="376" Margin="329,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="381" IsEnabled="False" Grid.Column="2"/>
+                    <TextBox x:Name="displayWholeAnswerPathTextBox" HorizontalAlignment="Left" Height="38" Margin="106,363,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204" IsEnabled="False" Text="无" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="105,339,0,0" TextWrapping="Wrap" Text="完整求解结果路径" VerticalAlignment="Top" Height="33" Width="132" FontSize="16" Grid.Column="2"/>
+                </Grid>
+
+            </TabItem>
+            <TabItem Header="第3问">
+                <Grid Background="#FFE5E5E5" Margin="-1,0,1,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="8*"/>
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="6*"/>
+                        <ColumnDefinition Width="24*"/>
+                        <ColumnDefinition Width="90*"/>
+                        <ColumnDefinition Width="687*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock HorizontalAlignment="Left" Margin="4,48,0,0" TextWrapping="Wrap" Text="读入数据" VerticalAlignment="Top" FontSize="20" Grid.ColumnSpan="4" Height="25" Width="80" Grid.Column="1"/>
+                    <Button x:Name="inputAlldataButton" Content="浏览..." HorizontalAlignment="Left" Margin="0,80,0,0" VerticalAlignment="Top" Width="63" FontSize="16" Grid.ColumnSpan="3" Grid.Column="2" Height="24" Click="inputAlldataButton_Click"/>
+                    <TextBox x:Name="ALLdataFilePathTextbox" HorizontalAlignment="Right" Height="23" Margin="0,81,506,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="228" Grid.Column="4" Grid.ColumnSpan="2"/>
+                    <TextBox x:Name="DisanwenResultTextBox" HorizontalAlignment="Left" Height="359" Margin="198,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="466" IsEnabled="False" Grid.Column="5"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="193,9,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" RenderTransformOrigin="-0.54,0.36" Grid.Column="5" Height="25" Width="295"><Run Text="计算结果："/><Run Language="zh-cn" Text="（只输出适应度）"/></TextBlock>
+                    <TextBlock HorizontalAlignment="Left" Margin="0,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Grid.ColumnSpan="4" Grid.Column="2" Height="25" Width="160"><Run Language="zh-cn" Text="输入欲投资的股票"/></TextBlock>
+                    <TextBox x:Name="StocksIndexTextBox" HorizontalAlignment="Left" Height="57" Margin="0,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="304" Grid.ColumnSpan="4" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="2,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="3" Grid.Column="2" Height="20" Width="64"><Run Language="zh-cn" Text="种群大小"/></TextBlock>
+                    <TextBox x:Name="PopulationSizeTextBox_Copy" HorizontalAlignment="Left" Height="23" Margin="43,212,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Text="50" Grid.Column="4" Grid.ColumnSpan="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="2,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="3" Grid.Column="2" Height="20" Width="64"><Run Language="zh-cn" Text="变异概率"/></TextBlock>
+                    <TextBox x:Name="MutationProbTextBox_Copy" HorizontalAlignment="Left" Height="23" Margin="43,245,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Text="0.001" Grid.Column="4" Grid.ColumnSpan="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="2,281,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="3" Grid.Column="2" Height="20" Width="64"><Run Language="zh-cn" Text="迭代次数"/></TextBlock>
+                    <TextBox x:Name="GAIterTextBox_Copy" HorizontalAlignment="Left" Height="23" Margin="43,279,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Text="500" Grid.Column="4" Grid.ColumnSpan="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="2,316,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="3" Grid.Column="2" Height="20" Width="64"><Run Language="zh-cn" Text="投资额"/></TextBlock>
+                    <TextBox x:Name="TouzieTextBox" HorizontalAlignment="Left" Height="23" Margin="43,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Text="100" Grid.Column="4" Grid.ColumnSpan="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="2,349,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.ColumnSpan="4" Grid.Column="2" Height="20" Width="193" UseLayoutRounding="False"><Run Language="zh-cn" Text="股东权益比例（推荐设置为50)"/></TextBlock>
+                    <TextBox x:Name="GudongQuanyiTextBox" HorizontalAlignment="Left" Height="23" Margin="51,347,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="38" Text="50" Grid.Column="5"/>
+                    <Button Content="查看数据定义" Grid.Column="2" HorizontalAlignment="Left" Margin="0,9,0,0" VerticalAlignment="Top" Width="117" RenderTransformOrigin="0.48,0.579" Grid.ColumnSpan="3" Height="32" FontSize="18" Click="Button_Click_1"/>
+                    <Button x:Name="GA3StartButton" Content="遗传优化求解" Grid.Column="5" HorizontalAlignment="Left" Margin="71,377,0,0" VerticalAlignment="Top" Width="114" Height="29" FontSize="16" Click="GA3StartButton_Click"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+
+    </Grid>
+</Window>
